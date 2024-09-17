@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "236d611e4cabf9b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dec141275103d18b",
             "type": "leaf",
             "state": {
@@ -42,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27415f5fcfafacf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cnxh/link tham khảo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "cnxh/link tham khảo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "cnxh/link tham khảo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "cnxh/link tham khảo.md"
               }
             }
           }
@@ -172,11 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236d611e4cabf9b6",
+  "active": "27415f5fcfafacf6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "cnxh/link tham khảo.md",
+    "cnxh.md",
     "MMT/6. Wireless Network",
     "Welcome.md",
-    "Untitled.md",
     "MMT/5. Data Link Layer",
     "MMT/4. Network Layer",
     "MMT/3. Transport Layer",
@@ -188,6 +190,6 @@
     "project.md",
     "MMT",
     "inbox.md",
-    "Untitled"
+    "cnxh"
   ]
 }
