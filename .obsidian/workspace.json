@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cnxh/link tham khảo.md",
+                "file": "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế/2. Tình trạng tham nhũng, tiêu cực còn hoành hành.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cnxh/link tham khảo.md",
+                "file": "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế/2. Tình trạng tham nhũng, tiêu cực còn hoành hành.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cnxh/link tham khảo.md",
+                "file": "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế/2. Tình trạng tham nhũng, tiêu cực còn hoành hành.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cnxh/link tham khảo.md"
+                "file": "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế/2. Tình trạng tham nhũng, tiêu cực còn hoành hành.md"
               }
             }
           }
@@ -174,22 +174,31 @@
   },
   "active": "27415f5fcfafacf6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "cnxh/Hạn chế và giải pháp/3. Về đội ngũ cán bộ",
     "cnxh/link tham khảo.md",
+    "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế/2. Tình trạng tham nhũng, tiêu cực còn hoành hành.md",
+    "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế",
+    "cnxh/Hạn chế và giải pháp/1. Về thể chế/1.Hạn chế/3. Chưa thực hiện đúng các yêu cầu về xây dựng và phân tích chính sách.md",
+    "cnxh/Hạn chế và giải pháp/1. Về thể chế/1.Hạn chế/2. Chất lượng của văn bản vi phạm pháp luật còn chưa bảo đảm và phù hợp với thực tiễn.md",
+    "cnxh/Hạn chế và giải pháp/1. Về thể chế/1.Hạn chế/1. Còn nhiều chồng chéo, xung đột giữa các văn bản.md",
+    "cnxh/Hạn chế và giải pháp/1. Về thể chế/2.Giải pháp/1. Hoàn thiện các nguyên tắc Hiến định liên quan đến việc bảo vệ các quyền con người, quyền công dân.md",
+    "cnxh/Hạn chế và giải pháp/1. Về thể chế/1.Hạn chế",
+    "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước",
+    "cnxh/Hạn chế và giải pháp/1. Về thể chế/2.Giải pháp",
+    "cnxh/Hạn chế và giải pháp/1. Về thể chế",
+    "Untitled 1",
+    "cnxh/Hạn chế và giải pháp/Tình trạng chồng chéo, mâu thuẫn, xung đột giữa các văn bản quy phạm pháp luật.md",
+    "cnxh/Hạn chế và giải pháp",
+    "Untitled",
+    "cnxh/Hạn chế và giải pháp.md",
+    "Untitled.md",
     "cnxh.md",
     "MMT/6. Wireless Network",
     "Welcome.md",
     "MMT/5. Data Link Layer",
-    "MMT/4. Network Layer",
-    "MMT/3. Transport Layer",
-    "MMT/2. Application Layer",
-    "MMT/1. Giới thiệu về mạng Internet và máy tính",
-    "Untitled 1",
     "MMT/Chương 1.md",
     "Untitled 1.md",
     "project.md",
-    "MMT",
-    "inbox.md",
-    "cnxh"
+    "inbox.md"
   ]
 }
