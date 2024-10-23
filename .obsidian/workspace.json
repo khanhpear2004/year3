@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab-MMT/lab1/lab1.1/Network Interface Card (NIC) là gì/Nội dung.md",
+                "file": "lab-MMT/lab1/lab1.1/1. Network Interface Card (NIC) là gì/Nội dung.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab-MMT/lab1/lab1.1/Network Interface Card (NIC) là gì/Nội dung.md",
+                "file": "lab-MMT/lab1/lab1.1/3. Switch là gì/Nội dung.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab-MMT/lab1/lab1.1/Network Interface Card (NIC) là gì/Nội dung.md",
+                "file": "lab-MMT/lab1/lab1.1/3. Switch là gì/Nội dung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab-MMT/lab1/lab1.1/Network Interface Card (NIC) là gì/Nội dung.md",
+                "file": "lab-MMT/lab1/lab1.1/3. Switch là gì/Nội dung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab-MMT/lab1/lab1.1/Network Interface Card (NIC) là gì/Nội dung.md"
+                "file": "lab-MMT/lab1/lab1.1/3. Switch là gì/Nội dung.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Nội dung"
@@ -180,9 +180,14 @@
   },
   "active": "8446f0f0e4c828df",
   "lastOpenFiles": [
+    "lab-MMT/lab1/lab1.1/2. Hub là gì/Nội dung.md",
+    "lab-MMT/lab1/lab1.1/3. Switch là gì/Nội dung.md",
+    "lab-MMT/lab1/lab1.1/3. Switch là gì/Untitled",
+    "lab-MMT/lab1/lab1.1/3. Switch là gì",
+    "lab-MMT/lab1/lab1.1/1. Network Interface Card (NIC) là gì/Nội dung.md",
+    "lab-MMT/lab1/lab1.1/2. Hub là gì",
     "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế/3.Chức năng, nhiệm vụ của các cơ quan còn chưa cụ thể hóa đầy đủ.md",
-    "lab-MMT/lab1/lab1.1/Network Interface Card (NIC) là gì/Nội dung.md",
-    "lab-MMT/lab1/lab1.1/Network Interface Card (NIC) là gì",
+    "lab-MMT/lab1/lab1.1/1. Network Interface Card (NIC) là gì",
     "lab-MMT/lab1/lab1.1",
     "lab-MMT/lab1",
     "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế/2. Tình trạng tham nhũng, tiêu cực còn hoành hành.md",
@@ -199,9 +204,6 @@
     "cnxh/Hạn chế và giải pháp/3. Về đội ngũ cán bộ/1. Hạn chế",
     "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/2. Giải pháp",
     "cnxh/Hạn chế và giải pháp/3. Về đội ngũ cán bộ",
-    "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước/1. Hạn chế",
-    "cnxh/Hạn chế và giải pháp/1. Về thể chế/1.Hạn chế",
-    "cnxh/Hạn chế và giải pháp/2. Về bộ máy nhà nước",
     "cnxh/Hạn chế và giải pháp/Tình trạng chồng chéo, mâu thuẫn, xung đột giữa các văn bản quy phạm pháp luật.md",
     "cnxh/Hạn chế và giải pháp.md",
     "Untitled.md",
