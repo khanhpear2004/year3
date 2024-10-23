@@ -14,3 +14,5 @@ Chức năng:
     
 - **Bảo mật**: Một số NIC có tích hợp tính năng bảo mật như mã hóa dữ liệu, giúp bảo vệ thông tin khi truyền qua mạng.
 
+Loại cáp: Cáp Ethernet (cáp mạng RJ45)  
+Chuẩn: Chuẩn Ethernet (ví dụ: Cat5e, Cat6, hoặc Cat6a)
