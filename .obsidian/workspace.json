@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Nội dung"
             }
+          },
+          {
+            "id": "1bc4aab51ab35f55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3160c41aea9a4f2",
+  "active": "1bc4aab51ab35f55",
   "lastOpenFiles": [
     "Untitled 1.md",
     "lab-MMT/lab1/lab1.1/6. Modem/Nội dung.md",
