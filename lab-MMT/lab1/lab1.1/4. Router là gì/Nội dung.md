@@ -30,15 +30,15 @@
 
 ### Sự khác biệt giữa Router và Switch:
 
-|**Tiêu chí**|**Router**|**Switch**|
-|---|---|---|
-|**Tầng hoạt động**|Tầng 3 (Tầng mạng)|Tầng 2 (Tầng liên kết dữ liệu)|
-|**Chức năng chính**|Định tuyến gói tin giữa các mạng khác nhau|Kết nối và chuyển tiếp gói tin giữa các thiết bị trong cùng mạng LAN|
-|**Địa chỉ sử dụng**|Sử dụng địa chỉ IP để định tuyến gói tin|Sử dụng địa chỉ MAC để chuyển gói tin|
-|**Bảng định tuyến / bảng MAC**|Sử dụng bảng định tuyến IP|Sử dụng bảng CAM chứa địa chỉ MAC|
-|**Kết nối mạng nội bộ**|Kết nối các mạng khác nhau (LAN đến WAN, LAN đến Internet)|Kết nối các thiết bị trong cùng một mạng nội bộ (LAN)|
-|**Chức năng bảo mật**|Có thể tích hợp tường lửa và các tính năng bảo mật|Ít tính năng bảo mật hơn, chủ yếu dựa vào khả năng chuyển mạch|
-|**Phạm vi hoạt động**|Hoạt động giữa các mạng lớn (mạng LAN, WAN)|Hoạt động chủ yếu trong mạng LAN|
+| **Tiêu chí**                   | **Router**                                                 | **Switch**                                                           |
+| ------------------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Tầng hoạt động**             | Tầng 3 (Tầng mạng)                                         | Tầng 2 (Tầng liên kết dữ liệu)                                       |
+| **Chức năng chính**            | Định tuyến gói tin giữa các mạng khác nhau                 | Kết nối và chuyển tiếp gói tin giữa các thiết bị trong cùng mạng LAN |
+| **Địa chỉ sử dụng**            | Sử dụng địa chỉ IP để định tuyến gói tin                   | Sử dụng địa chỉ MAC để chuyển gói tin                                |
+| **Bảng định tuyến / bảng MAC** | Sử dụng bảng định tuyến IP                                 | Sử dụng bảng CAM chứa địa chỉ MAC                                    |
+| **Kết nối mạng nội bộ**        | Kết nối các mạng khác nhau (LAN đến WAN, LAN đến Internet) | Kết nối các thiết bị trong cùng một mạng nội bộ (LAN)                |
+| **Chức năng bảo mật**          | Có thể tích hợp tường lửa và các tính năng bảo mật         | Ít tính năng bảo mật hơn, chủ yếu dựa vào khả năng chuyển mạch       |
+| **Phạm vi hoạt động**          | Hoạt động giữa các mạng lớn (mạng LAN, WAN)                | Hoạt động chủ yếu trong mạng LAN                                     |
 
 ---
 

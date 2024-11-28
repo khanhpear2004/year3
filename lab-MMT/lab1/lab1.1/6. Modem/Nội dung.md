@@ -89,15 +89,15 @@
 
 ### So sánh ba loại modem:
 
-|**Tiêu chí**|**Dial-up Modem**|**ADSL Modem**|**Cable Modem**|
-|---|---|---|---|
-|**Cách kết nối**|Sử dụng đường dây điện thoại|Sử dụng đường dây điện thoại|Sử dụng hệ thống cáp truyền hình|
-|**Tốc độ kết nối**|Rất chậm (khoảng 56 kbps)|Tốc độ cao hơn (lên tới 24 Mbps)|Tốc độ cao nhất (lên tới 100 Mbps hoặc hơn)|
-|**Khả năng dùng điện thoại**|Không thể dùng điện thoại khi truy cập|Có thể dùng điện thoại và Internet cùng lúc|Không bị ảnh hưởng bởi tín hiệu truyền hình|
-|**Kết nối liên tục**|Phải quay số để kết nối (Dial-up)|Luôn kết nối (always-on)|Luôn kết nối (always-on)|
-|**Phụ thuộc khoảng cách**|Không|Có, xa tổng đài sẽ giảm tốc độ|Không phụ thuộc khoảng cách|
-|**Chia sẻ băng thông**|Không|Không|Có, có thể bị chậm nếu nhiều người dùng|
-|**Ứng dụng**|Các vùng không có băng thông rộng|Nhà riêng, doanh nghiệp nhỏ|Các khu vực có dịch vụ truyền hình cáp|
+| **Tiêu chí**                 | **Dial-up Modem**                      | **ADSL Modem**                              | **Cable Modem**                             |
+| ---------------------------- | -------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| **Cách kết nối**             | Sử dụng đường dây điện thoại           | Sử dụng đường dây điện thoại                | Sử dụng hệ thống cáp truyền hình            |
+| **Tốc độ kết nối**           | Rất chậm (khoảng 56 kbps)              | Tốc độ cao hơn (lên tới 24 Mbps)            | Tốc độ cao nhất (lên tới 100 Mbps hoặc hơn) |
+| **Khả năng dùng điện thoại** | Không thể dùng điện thoại khi truy cập | Có thể dùng điện thoại và Internet cùng lúc | Không bị ảnh hưởng bởi tín hiệu truyền hình |
+| **Kết nối liên tục**         | Phải quay số để kết nối (Dial-up)      | Luôn kết nối (always-on)                    | Luôn kết nối (always-on)                    |
+| **Phụ thuộc khoảng cách**    | Không                                  | Có, xa tổng đài sẽ giảm tốc độ              | Không phụ thuộc khoảng cách                 |
+| **Chia sẻ băng thông**       | Không                                  | Không                                       | Có, có thể bị chậm nếu nhiều người dùng     |
+| **Ứng dụng**                 | Các vùng không có băng thông rộng      | Nhà riêng, doanh nghiệp nhỏ                 | Các khu vực có dịch vụ truyền hình cáp      |
 
 ---
 
