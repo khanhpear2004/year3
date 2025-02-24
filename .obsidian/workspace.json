@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "c9182df0030aab81",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -220,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "430ca1b34c74d0e6",
+  "active": "c9182df0030aab81",
   "lastOpenFiles": [
     "Lịch Sử Đảng/Chương 1/Untitled",
     "Lịch Sử Đảng/Chương 1",
