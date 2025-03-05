@@ -10,3 +10,6 @@ https://baothaibinh.com.vn/tin-tuc/52/45090/nguoi-nhat-xin-loi-viet-nam-ve-nan-d
 
 Hội nghị trung ương đảng - 6:
 https://nvsk.vnanet.vn/hoi-nghi-trung-uong-6-6-8-11-1939-1-34572.vna
+
+Khẩu hiệu của tổng bí thư Nguyễn Văn Cừ:
+https://tapchilichsudang.vn/tong-bi-thu-nguyen-van-cu-voi-buoc-chuyen-chien-luoc-cua-cach-mang-viet-nam.html
