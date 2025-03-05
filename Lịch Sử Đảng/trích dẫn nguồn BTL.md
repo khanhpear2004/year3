@@ -7,3 +7,6 @@ https://truongchinhtribentre.edu.vn/tom-tat-boi-canh-dien-bien-ket-qua-y-nghia-l
 https://aloha.edu.vn/phat-xit-nhat-xam-luoc-nuoc-ta-vao-nam-nao/?utm_source=chatgpt.com
 
 https://baothaibinh.com.vn/tin-tuc/52/45090/nguoi-nhat-xin-loi-viet-nam-ve-nan-doi-nam-1945?utm_source=chatgpt.com
+
+Hội nghị trung ương đảng - 6:
+https://nvsk.vnanet.vn/hoi-nghi-trung-uong-6-6-8-11-1939-1-34572.vna
