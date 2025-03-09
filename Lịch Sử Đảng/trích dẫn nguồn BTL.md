@@ -22,3 +22,5 @@ https://nvsk.vnanet.vn/hoi-nghi-trung-uong-8-10-19-5-1941-1-34593.vna?utm_source
 
 thông tin về khời nghĩa Bắc Sơn và Khởi nghĩa Nam Kỳ:
 https://www.hcmcpv.org.vn/tin-tuc/khoi-nghia-bac-son-khoi-nghia-nam-ky-va-bai-hoc-nam-bat-thoi-co-cach-mang-1491872043?utm_source=chatgpt.com
+
+Thông tin về 

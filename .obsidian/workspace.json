@@ -109,12 +109,14 @@
             "id": "18900e9b617c0bfb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Lịch Sử Đảng/trích dẫn nguồn BTL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "trích dẫn nguồn BTL"
             }
           }
         ],
