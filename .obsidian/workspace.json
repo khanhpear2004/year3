@@ -104,9 +104,21 @@
               "icon": "lucide-file",
               "title": "trích dẫn nguồn BTL"
             }
+          },
+          {
+            "id": "18900e9b617c0bfb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -249,7 +261,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "430ca1b34c74d0e6",
+  "active": "18900e9b617c0bfb",
   "lastOpenFiles": [
     "Lịch Sử Đảng/tóm tắt/Tóm tắt bối cảnh chung tác động đến công tác đối ngoại giai đoạn 2006 2016.md",
     "Lịch Sử Đảng/trích dẫn nguồn BTL.md",
